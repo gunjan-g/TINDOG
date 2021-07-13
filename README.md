@@ -17,7 +17,7 @@ Used by people to find the love for their dogs
 - Download or clone the repository
 
 ```
-
+git clone https://github.com/gunjan-g/TINDOG.git
 ```
 
 - Go to the directory
