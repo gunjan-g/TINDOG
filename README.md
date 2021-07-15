@@ -1,5 +1,5 @@
 # TINDOG
-Tinder for dogs
+Personal Project: Tinder for dogs
 
 ### Use of the Project:
 Used by people to find the love for their dogs
