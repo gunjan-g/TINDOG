@@ -1,10 +1,10 @@
-# TINDOG
-Personal Project: Tinder for dogs
+# TINDOG 🐕
+Personal Project: Tinder for dogs 🐶
 
-### Use of the Project:
-Used by people to find the love for their dogs
+### Use of the Project: 
+Used by people to find the love ❤️ for their dogs
 
-### Tech Stack
+### Tech Stack 🧑‍💻
 * HTML5
 * CSS3
 * BOOTSTRAP
